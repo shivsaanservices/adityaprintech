@@ -1,0 +1,12 @@
+{
+  "name": "aditya-printech",
+  "version": "1.0.0",
+  "description": "Aditya Printech website with Vercel contact endpoint",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.4"
+  }
+}
